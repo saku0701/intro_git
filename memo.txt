@@ -10,3 +10,6 @@ nakasone.masahiro@jp.panasonic.com　
 　
  gitの練習
 
+git add
+
+git commit
