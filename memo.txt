@@ -13,3 +13,5 @@ nakasone.masahiro@jp.panasonic.com　
 git add
 
 git commit
+
+複数のファイルを変更した時のコミット
