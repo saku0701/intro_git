@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 社内ポストNo：375-83L[ハイ]
@@ -11,3 +12,5 @@ nakasone.masahiro@jp.panasonic.com　
 で仮登録してください。（POSTがまだないので、仲宗根と同じにしておきます）
 　
  gitの練習
+=======
+>>>>>>> 47bc589 (first commit)
