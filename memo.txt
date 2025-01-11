@@ -17,3 +17,5 @@ git commit
 複数のファイルを変更した時のコミット
 
 git status
+
+git diff
